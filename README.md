@@ -23,5 +23,5 @@ You can launch the application directly without needing the terminal, or run it 
 * **No Terminal:** Simply double-click the `radix.py` file to launch the Pygame GUI.
 * **Via Terminal:** 
   ```bash
-  python radix.py
+  Radix_v1.py
   ```
