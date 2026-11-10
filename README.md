@@ -20,8 +20,14 @@ By running entirely on your local machine, Radix eliminates usage restrictions, 
 
 You can launch the application directly without needing the terminal, or run it with a single command:
 
-* **No Terminal:** Simply double-click the `radix.py` file to launch the Pygame GUI.
+* **No Terminal:** Simply double-click the `Radix.py` file to launch the Pygame GUI.
 * **Via Terminal:** 
   ```bash
   python Radix.py
   ```
+
+---
+
+## Known Issues
+
+* **Complex VM Tasks:** The AI is currently not capable of handling highly complex tasks within the virtual machine environment, such as compiling executable `.exe` files or building Minecraft mods. 
